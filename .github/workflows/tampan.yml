@@ -1,4 +1,4 @@
-name: ssh
+name: tampan
 on: 
   workflow_dispatch:
 defaults:
