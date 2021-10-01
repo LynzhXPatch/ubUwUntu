@@ -1,4 +1,3 @@
-name: UwU
 on: 
   workflow_dispatch:
 defaults:
